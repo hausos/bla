@@ -1,7 +1,6 @@
-# Vizualization of Google Trends data throughout multiple countries over time 
+# Visualization of Google Trends data throughout multiple countries over time 
 
-This vizualization uses the IDE Processing and uses the language Java.
-
+This visualization uses the IDE Processing and the programming language Java.
 -------------------------------------------------------------------------
 
 Moja prijateljica ima podjetje LayOn, katero proizvaja blazine.
