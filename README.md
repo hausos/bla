@@ -1,3 +1,7 @@
+#Vizualization of Google Trends data throughout multiple countries over time 
+
+
+
 Moja prijateljica ima podjetje LayOn, katero proizvaja blazine.
 
 Jaz ji pomagam z marketingom. Izhodišče vprašanja, iz katerega sem izhajala
