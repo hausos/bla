@@ -1,9 +1,10 @@
-#Vizualization of Google Trends data throughout multiple countries over time 
+# Vizualization of Google Trends data throughout multiple countries over time 
 
+This vizualization uses the IDE Processing and uses the language Java.
 
+-------------------------------------------------------------------------
 
 Moja prijateljica ima podjetje LayOn, katero proizvaja blazine.
-
 Jaz ji pomagam z marketingom. Izhodišče vprašanja, iz katerega sem izhajala
 je bilo sledeče:
 
